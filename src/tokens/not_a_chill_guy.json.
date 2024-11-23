@@ -1,8 +1,9 @@
 {
-  "name": "Just not a chill guy",
+  "chainId": 101,
+  "address": "EX1iXYnruH3nfBK27kAenaFZsL1vk6ZikPu437Z1SaDb",
   "symbol": "NOTCHILL",
-  "uri": ""C:\Users\luigi\Pictures\not chill.png"",
-  "address": "TONY_TOKEN_ADDRESS",
+  "name": "Just not a chill guy",
   "decimals": 9,
-  "tags": []
+  "logoURI": "https://raw.githubusercontent.com/TON_GITHUB_REPO/assets/mainnet/TON_ADRESSE_DE_MINT/logo.png",
+  "tags": ["meme", "fun"],
 }
